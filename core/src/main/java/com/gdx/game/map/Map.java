@@ -70,7 +70,7 @@ public abstract class Map implements AudioSubject {
 
     public Map(MapFactory.MapType mapType, String fullMapPath) {
         json = new Json();
-        mapEntities = new Array<>(10);
+        mapEntities = new Array<>(15);
         observers = new Array<>();
         mapQuestEntities = new Array<>();
         currentMapType = mapType;
