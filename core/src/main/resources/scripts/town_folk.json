@@ -1,6 +1,7 @@
 [
 	{
 		entityID : TOWN_FOLK1
+		entityName: Bert
 		entityStatus : VILLAGER
 		state : IMMOBILE
 		direction : DOWN
@@ -52,6 +53,7 @@
 	},
 	{
 		entityID : TOWN_FOLK2
+		entityName: George
 		entityStatus : VILLAGER
 		state : IMMOBILE
 		direction : DOWN
@@ -102,6 +104,7 @@
 	},
 	{
 		entityID : TOWN_FOLK3
+		entityName: Ruben
 		entityStatus : VILLAGER
 		state : IMMOBILE
 		direction : DOWN
@@ -152,6 +155,7 @@
 	},
 	{
 		entityID : TOWN_FOLK4
+		entityName: Simon
 		entityStatus : VILLAGER
 		state : IMMOBILE
 		direction : DOWN
@@ -202,6 +206,7 @@
 	},
 	{
 		entityID : TOWN_FOLK5
+		entityName: John
 		entityStatus : VILLAGER
 		state : IMMOBILE
 		direction : DOWN

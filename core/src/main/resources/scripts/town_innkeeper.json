@@ -1,5 +1,6 @@
 {
 	entityID : TOWN_INNKEEPER
+	entityName: Innkeeper
 	entityStatus : VILLAGER
 	state : IMMOBILE
 	direction : DOWN
