@@ -21,8 +21,28 @@ conversations: {
                 dialog: May the winds guide you on your journey
         }
         6: {
-                id: 6
+                id: 6,
                 dialog: See you later traveler!
+        }
+        7: {
+                id: 7,
+                dialog: Be wary adventurer. Dangers lurk in the woods at night.
+        }
+        8: {
+                id: 8,
+                dialog: Ever tasted dragon stew? Heh just kidding… unless?
+        }
+        9: {
+                id: 9,
+                dialog: Have you come seeking fortune or fleeing fate?
+        }
+        10: {
+                id: 10,
+                dialog: I used to be an adventurer like you. Then I took an arrow in the knee.
+        }
+        11: {
+                id: 11,
+                dialog: Blessings upon you wanderer.
         }
 }
         associatedChoices: {
@@ -79,6 +99,53 @@ conversations: {
                                 choicePhrase: "Bye."
                                 conversationCommandEvent: EXIT_CONVERSATION
                         }
+                ],
+                7: [
+                        {
+                                class: com.gdx.game.dialog.ConversationChoice
+                                sourceId: 1
+                                destinationId: 7
+                                choicePhrase: "Bye."
+                                conversationCommandEvent: EXIT_CONVERSATION
+                        }
+                ],
+                8: [
+                        {
+                                class: com.gdx.game.dialog.ConversationChoice
+                                sourceId: 1
+                                destinationId: 7
+                                choicePhrase: "Bye."
+                                conversationCommandEvent: EXIT_CONVERSATION
+                        }
+                ],
+                9: [
+                        {
+                                class: com.gdx.game.dialog.ConversationChoice
+                                sourceId: 1
+                                destinationId: 7
+                                choicePhrase: "Bye."
+                                conversationCommandEvent: EXIT_CONVERSATION
+                        }
+                ],
+                10: [
+                        {
+                                class: com.gdx.game.dialog.ConversationChoice
+                                sourceId: 1
+                                destinationId: 7
+                                choicePhrase: "Bye."
+                                conversationCommandEvent: EXIT_CONVERSATION
+                        }
+                ],
+                11: [
+                        {
+                                class: com.gdx.game.dialog.ConversationChoice
+                                sourceId: 1
+                                destinationId: 7
+                                choicePhrase: "Bye."
+                                conversationCommandEvent: EXIT_CONVERSATION
+                        }
+        
+                
                 ]
         }
 }
