@@ -58,7 +58,7 @@ public class StatusUI extends Window implements StatusSubject {
         defaults().expand().fill();
 
         //account for the title padding
-        this.pad(this.getPadTop() + 10, 10, 10, 10);
+        this.pad(this.getPadTop() + 10, 10, 10, 40);
 
         this.add();
         handleQuestButton();

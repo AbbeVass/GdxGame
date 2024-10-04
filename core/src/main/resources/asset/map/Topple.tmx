@@ -274,6 +274,7 @@
   <object id="254" name="TOWN_INNKEEPER" x="261.333" y="165.333" width="25.3333" height="32"/>
   <object id="255" name="TOWN_FOLK4" x="71.3333" y="123.333" width="28" height="29.3333"/>
   <object id="5000" name="TOWN_BLACKSMITH" x="206.333" y="165.333" width="25.333" height="32"/>
+  <object id="262" name="TOWN_FOLK5" x="150.333" y="150.333" width="23" height="25"/>
   <object id="257" name="PLAYER_START" x="43.8182" y="127.273" width="19.8182" height="22.3636"/>
  </objectgroup>
  <objectgroup id="5" name="MAP_QUEST_ITEM_SPAWN_LAYER">
