@@ -1,5 +1,6 @@
 {
 	entityID : TOWN_BLACKSMITH
+	entityName: Blacksmith
 	entityStatus : VILLAGER
 	state : IMMOBILE
 	direction : DOWN
